@@ -1,0 +1,17 @@
+
+
+.navbtn{
+    background: tomato;
+}
+.basketdot{
+    position: relative;
+}
+.basketdot .dot{
+    position:absolute;
+    min-width: 10px;
+    min-height: 10px;
+    background-color: tomato;
+    border-radius: 10px;
+    top: -10px;
+    right: -10px;
+}

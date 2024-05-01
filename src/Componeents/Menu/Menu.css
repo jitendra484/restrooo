@@ -1,0 +1,31 @@
+.menu_list{
+    margin: 20px 0;
+    overflow-x: scroll;
+
+}
+.menu_list::-webkit-scrollbar{
+    display: none;
+}
+.menu_list_item img{
+    cursor: pointer;
+    border-radius: 50%;
+    transition: 0.6s;
+}
+.menu_list_item p{
+    cursor: pointer;
+    margin-top: 10px;
+    font-size: 20px;
+}
+.menu_list hr{
+    margin: 10px 0;
+    height: 2px;
+    background-color: rebeccapurple;
+
+    border:none;
+
+}
+.menu_list_item .active{
+    border: 4px solid tomato;
+    padding: 2px;
+
+}

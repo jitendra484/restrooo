@@ -1,0 +1,13 @@
+.footer{
+    height: 340px;
+    width: auto;
+    background-color: rgba(15, 14, 14, 0.886);
+    color: whitesmoke;
+    margin-top: 65px;
+}
+.footer h2{
+    color: tomato;
+}
+.ficon :hover{
+    color: whitesmoke;
+}

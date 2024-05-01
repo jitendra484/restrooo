@@ -1,0 +1,21 @@
+.timg{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+  
+    margin: auto;
+}
+.ttitle{
+    color: tomato;
+    font-weight: 600;
+}
+.slider-container{
+    background: linear-gradient(rgba(0, 0, 0, 0.603),rgba(0, 0, 0, 0.447)), url(../../assets/header_img.png);
+}
+
+
+/* media query  */
+
+
+
+

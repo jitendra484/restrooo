@@ -1,0 +1,11 @@
+.title{
+    text-align: center;
+    margin: 40px 0 20px;
+    color:#2e2ef1;
+    text-transform: uppercase;
+
+}
+.title h1{
+    text-transform: none;
+    color: black;
+}
